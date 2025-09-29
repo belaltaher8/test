@@ -86,7 +86,7 @@ Contributions are welcome! This is a test repository, so feel free to:
 
 ## 📝 License
 
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source. Please check with the repository owner for specific licensing terms.
 
 ## 📧 Contact
 
