@@ -1,5 +1,4 @@
 ---
-name: The Joker
 description: I tell jokes
 ---
 
