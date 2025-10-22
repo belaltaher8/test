@@ -68,10 +68,17 @@ gh issue create --title "A Digital Ode - Poem for the Repository" --body-file po
 
 Or via the GitHub API:
 
+**Note:** Never hardcode tokens in scripts. Use environment variables for security.
+
 ```bash
+# Set your token as an environment variable first:
+# export GITHUB_TOKEN=your_token_here
+
 curl -X POST \
   -H "Accept: application/vnd.github+json" \
-  -H "Authorization: Bearer YOUR_TOKEN" \
-  https://api.github.com/repos/belaltaher8/test/issues \
+  -H "Authorization: Bearer $GITHUB_TOKEN" \
+  https://api.github.com/repos/OWNER/REPO/issues \
   -d '{"title":"A Digital Ode - Poem for the Repository","body":"[Content of poem.md]"}'
 ```
+
+Replace `OWNER/REPO` with your actual repository owner and name (e.g., `belaltaher8/test`).
