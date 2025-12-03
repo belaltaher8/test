@@ -21,4 +21,5 @@ May our builds all pass with grace,
 As we improve this digital space.
 
 ---
-Why do programmers prefer dark mode? Because light attracts bugs DEFAULT
+
+Why do programmers prefer dark mode? Because light attracts bugs. DEFAULT
