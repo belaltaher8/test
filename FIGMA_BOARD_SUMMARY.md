@@ -124,6 +124,4 @@ The team leveraged several Figma capabilities:
 This summary synthesizes the key discussion points, themes, and action items from the retrospective board. For detailed notes, specific examples, or additional context, please refer to the original Figma board or reach out to the team facilitator.
 
 **Retrospective Date**: July 23, 2025  
-**Team**: Copilot Extensibility Team  
-**Facilitator**: TBD  
-**Participants**: TBD
+**Team**: Copilot Extensibility Team
