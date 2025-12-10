@@ -1,0 +1,21 @@
+name: "go-linter"
+
+env:
+  HUSKY: 0
+
+on:
+  pull_request:
+  merge_group:
+  workflow_dispatch:
+
+permissions:
+  id-token: write
+  contents: read
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Say Hi
+        run: |
+          echo "hi"
