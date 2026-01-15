@@ -19,7 +19,7 @@ This repository serves as a testing ground for various GitHub capabilities inclu
 The repository includes a basic GitHub Actions workflow (`go-linter`) that:
 - Triggers on pull requests, merge groups, and manual workflow dispatch
 - Runs on Ubuntu latest
-- Executes a simple "Hello" step for testing purposes
+- Executes a simple test step that echoes "hi"
 
 ### Custom Agents
 
