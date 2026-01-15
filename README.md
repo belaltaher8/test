@@ -58,8 +58,12 @@ cd test
 .
 ├── .github/
 │   ├── agents/           # Custom GitHub Copilot agents
+│   │   ├── default.agent.md
+│   │   ├── longDescription.md
+│   │   ├── my-agent.md
+│   │   └── not-the-right.agent.md
 │   └── workflows/        # GitHub Actions workflows
-│       └── my-action.yaml
+│       └── my-action.yaml  # go-linter workflow
 └── README.md            # This file
 ```
 
