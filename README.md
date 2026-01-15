@@ -33,15 +33,16 @@ cd test
 ├── .github/
 │   ├── agents/          # Custom GitHub agent configurations
 │   └── workflows/       # GitHub Actions workflow definitions
-│       └── my-action.yaml  # Sample workflow that says "hi"
+│       └── my-action.yaml  # Go linter workflow configuration
 └── README.md           # This file
 ```
 
 ## 🔄 GitHub Actions
 
-This repository includes a sample GitHub Actions workflow (`my-action.yaml`) that:
+This repository includes a GitHub Actions workflow (`my-action.yaml`) named "go-linter" that:
 - Triggers on pull requests, merge groups, and manual workflow dispatch
-- Runs a simple job that outputs "hi" to the console
+- Is configured for Go linting purposes
+- Currently contains a placeholder step that outputs "hi" to the console
 - Demonstrates basic GitHub Actions functionality
 
 ## 🤝 Contributing
