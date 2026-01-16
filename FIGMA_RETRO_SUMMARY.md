@@ -41,7 +41,7 @@ Team members shared creative responses:
 - **Huge shout out to Brandyn, Kinsey, and others** for Proxima work and testing CCA surface areas
 - **Shoutout to Ray** for driving job queuing work with Colby and ensuring GA readiness - amazing progress
 - Excited about sunsetting extensions (Emily as DRI - loves breaking down tasks)
-- Brandyn praised for being great at writing code, devops, all the things
+- Brandyn praised for being great at writing code, DevOps, all the things
 
 ### Leadership & Management
 - Cool that the interim manager is Ray (not some random person)
@@ -99,7 +99,7 @@ Team members shared creative responses:
 - **Assign Copilot to write docs on code** (Cal's suggestion)
 
 ### Clarifications Provided
-- **Universe releases:** Starting to populate in release issues - search "universe release" label + Tim as author in github/releases
+- **Universe releases:** Starting to populate in release issues - search "universe release" label + Tim as author in GitHub/releases
 - **Coding-agent-team channel:** It's the skip-level channel and everyone else working on CCA (One GitHub)
 - **Offsite timing:** October? But maybe not just before Universe - TBD but probably after Universe
 - **Tim working to set Universe launch dates** - should be next week or two
