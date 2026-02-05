@@ -11,7 +11,7 @@ This is a test repository for experimenting with GitHub features, workflows, and
 
 - **GitHub Actions Workflows**: Automated CI/CD pipelines
 - **Custom Agents**: GitHub agents for specialized tasks
-- **Go Linter Workflow**: Automated code quality checks
+- **Test Workflow**: Simple greeting workflow for testing
 
 ## 📁 Repository Structure
 
@@ -30,7 +30,7 @@ This is a test repository for experimenting with GitHub features, workflows, and
 
 ## 🔧 GitHub Workflows
 
-### Go Linter
+### My Action Workflow
 
 The repository includes a GitHub Actions workflow (`my-action.yaml`) that:
 - Triggers on pull requests, merge groups, and manual dispatch
