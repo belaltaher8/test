@@ -15,7 +15,7 @@ This retrospective captures the Copilot Extensibility Team's reflections, learni
 Team responses showcased personality and creativity:
 
 - **Versatile & Functional:** "What I would like to be: Something versatile, maybe like a plate bowl or a super functional bag. What I would probably be: A radio"
-- **Enigmatic Art:** "I would want to be a enigmatic and unique work of art that has at least a hundred year run in a museum somewhere and then gets burned down in a large fire."
+- **Enigmatic Art:** "I would want to be an enigmatic and unique work of art that has at least a hundred year run in a museum somewhere and then gets burned down in a large fire."
 - **Speed & Performance:** "Porsche 911 Turbo S or Super sonic Jet"
 - **Comfort & Warmth:** "A plate of warm chocolate chip cookies"
 - **Simplicity:** "stuffed animal"
@@ -46,7 +46,7 @@ Team responses showcased personality and creativity:
 - "People pairing more on epics together this month, love this!!!"
 - "already pairing and doing brownbags"
 - "Belal and I got to do happy hour in NYC, working together in a co working space was sooo fun!!"
-- "Emily, Brandyn, Ray, and Abhinav took me in as a fake seattilite for a week and that was awesome"
+- "Emily, Brandyn, Ray, and Abhinav took me in as a fake Seattleite for a week and that was awesome"
 
 ### Project Success - Proxima 🚀
 
@@ -61,7 +61,7 @@ Team responses showcased personality and creativity:
 
 ### Management Transition 👔
 
-- "Excited Ray is stepping in as a our interim manager"
+- "Excited Ray is stepping in as our interim manager"
 - "Cool that our new interum manager is Ray and not some rando I have to get used to complaining to in 1-1"
 
 ### Team Culture 🌟
