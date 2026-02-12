@@ -62,12 +62,12 @@ Team responses showcased personality and creativity:
 ### Management Transition 👔
 
 - "Excited Ray is stepping in as our interim manager"
-- "Cool that our new interum manager is Ray and not some rando I have to get used to complaining to in 1-1"
+- "Cool that our new interim manager is Ray and not some rando I have to get used to complaining to in 1-1"
 
 ### Team Culture 🌟
 
 - "Nice to hear about the different vacations everyone is taking s/o to cool biking tours"
-- "the agent-session-exerpience team seems to be developing and it's kind of nice to see some more structure for surrounding teams"
+- "the agent-session-experience team seems to be developing and it's kind of nice to see some more structure for surrounding teams"
 
 ---
 
