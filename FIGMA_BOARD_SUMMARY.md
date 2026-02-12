@@ -1,10 +1,10 @@
-# Copilot Extensibility Team Retro - August 20, 2025
+# Copilot Extensibility Team Retro - July 23, 2025
 
 **Figma Board:** [Copilot-Extensibility-Team-Retro-7-23-2025](https://www.figma.com/board/eW7FOoRkgHdc6jwbzsLG4M/Copilot-Extensibility-Team-Retro-7-23-2025--Copy-?node-id=0-1&p=f&t=IpimDz4uQPYqdD3u-0)
 
 ## Overview
 
-This document summarizes the team retrospective for the Copilot Extensibility Team held on August 20, 2025. The board is organized into several key sections where team members contributed feedback, concerns, celebrations, and action items.
+This document summarizes the team retrospective for the Copilot Extensibility Team held on July 23, 2025. The board is organized into several key sections where team members contributed feedback, concerns, celebrations, and action items.
 
 ---
 
@@ -66,7 +66,7 @@ Team members shared creative responses:
 - Lots of DM interrupts - maybe I just need to ignore people more
 - No, there's definitely just a lot of slack noise
 - So hard to keep up with discussions in Slack, etc. but feel like I am missing out on important conversations
-- Maybe we needs Teams :haha Also have you checked out the Slack AI thing? It does give you summarized Recaps
+- Maybe we need Teams :haha Also have you checked out the Slack AI thing? It does give you summarized Recaps
 
 ### Organizational Clarity
 - Can still be lack of clarity on DRI, who owns what especially with external teams?
