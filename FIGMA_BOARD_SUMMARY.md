@@ -44,7 +44,7 @@ Creative responses included:
 ### Team Collaboration
 - "People pairing more on epics together this month, love this!!!"
 - "Belal and I got to do happy hour in NYC, working together in a co-working space was sooo fun!!"
-- "Emily, Brandyn, Ray, and Abhinav took me in as a fake seattilite for a week and that was awesome"
+- "Emily, Brandyn, Ray, and Abhinav took me in as a fake Seattleite for a week and that was awesome"
 
 ### Project Successes
 - **Proxima Work:** "Huge shout out to Brandyn, Kinsey and others who helped with the proxima work and testing"
