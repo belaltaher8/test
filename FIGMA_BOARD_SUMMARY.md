@@ -2,7 +2,9 @@
 
 **Source:** [Figma Board](https://www.figma.com/board/eW7FOoRkgHdc6jwbzsLG4M/Copilot-Extensibility-Team-Retro-7-23-2025--Copy-?node-id=0-1&p=f&t=IpimDz4uQPYqdD3u-0)
 
-**Date:** August 20, 2025
+**Retro Date:** August 20, 2025
+
+**Note:** The Figma board URL contains "7-23-2025" in its name but the actual retrospective title on the board states "8/20/2025". This summary reflects the content from the 8/20/2025 retrospective as labeled on the board itself.
 
 ---
 
