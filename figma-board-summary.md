@@ -1,4 +1,4 @@
-# Copilot Extensibility Team Retro - August 20, 2025
+# Copilot Extensibility Team Retro - July 23, 2025
 ## Comprehensive Summary
 
 ---
