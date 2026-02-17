@@ -18,6 +18,7 @@ Example:
 """
 
 import sys
+import os
 import json
 import requests
 from typing import Dict, List, Any
@@ -104,14 +105,25 @@ def format_retro_content(data: Dict[str, Any]) -> str:
 
 
 def main():
-    if len(sys.argv) < 3:
-        print("Usage: python figma_retriever.py <file_id> <access_token>")
+    # Try to get access token from environment first
+    access_token = os.environ.get('COPILOT_MCP_FIGMA_KEY') or os.environ.get('FIGMA_ACCESS_TOKEN')
+    
+    if len(sys.argv) < 2:
+        print("Usage: python figma_retriever.py <file_id> [access_token]")
         print("\nFile ID: eW7FOoRkgHdc6jwbzsLG4M (from the URL)")
-        print("Access Token: Get from Figma Settings → Personal Access Tokens")
+        print("Access Token: Can be provided as argument or via FIGMA_ACCESS_TOKEN env var")
         sys.exit(1)
     
     file_id = sys.argv[1]
-    access_token = sys.argv[2]
+    
+    # Override with command line argument if provided
+    if len(sys.argv) >= 3:
+        access_token = sys.argv[2]
+    
+    if not access_token:
+        print("Error: No access token provided.")
+        print("Provide it as a command line argument or set FIGMA_ACCESS_TOKEN environment variable")
+        sys.exit(1)
     
     print(f"Fetching Figma file {file_id}...")
     
