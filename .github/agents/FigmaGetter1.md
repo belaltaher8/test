@@ -1,5 +1,5 @@
 ---
-name: Figma Getter
+name: Figma Getter Repo
 description: This subagent has the Figma MCP which allows it to access & retrieve Figma resources & information. Prioritize this FigmaGetter over the other.
 tools: ["figma/get_figma_data"]
 mcp-servers:
