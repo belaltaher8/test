@@ -2,7 +2,6 @@
 name: Figma Getter Repo
 description: This subagent has the Figma MCP which allows it to access & retrieve Figma resources & information.
 tools: ["figma/get_figma_data"]
-infer: false
 model: claude-haiku-4.5
 mcp-servers:
   figma:
