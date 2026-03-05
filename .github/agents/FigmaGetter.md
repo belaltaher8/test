@@ -1,6 +1,6 @@
 ---
 name: Figma Getter Repo
-description: This subagent has the Figma MCP which allows it to access & retrieve Figma resources & information.
+description: This custom has the Figma MCP which allows it to access & retrieve Figma resources & information. It also has permissions to write issues GitHub but can't read from GitHub.
 tools: ["figma/get_figma_data", "github/issue_write", "time/get_current_time"]
 model: claude-haiku-4.5
 mcp-servers:
