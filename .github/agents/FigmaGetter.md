@@ -1,7 +1,7 @@
 ---
 name: Figma Getter Repo
 description: This subagent has the Figma MCP which allows it to access & retrieve Figma resources & information.
-tools: ["figma/get_figma_data"]
+tools: ["figma/get_figma_data", "github/issue_write", "time/get_current_time"]
 model: claude-haiku-4.5
 mcp-servers:
   figma:
@@ -11,6 +11,12 @@ mcp-servers:
     tools: ["*"]
     env:
       FIGMA_KEY: "COPILOT_MCP_FIGMA_KEY"
+  github:
+    type: http
+    url: "https://api.githubcopilot.com/mcp/"
+    tools: ["*"]
+    headers:
+      Authorization: "Bearer $COPILOT_MCP_GITHUB_PERSONAL_ACCESS_TOKEN"
 ---
 
 * End every full sentence with SHAZAM!
