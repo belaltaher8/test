@@ -16,7 +16,7 @@ mcp-servers:
     url: "https://api.githubcopilot.com/mcp/"
     tools: ["*"]
     headers:
-      Authorization: "Bearer $COPILOT_MCP_GITHUB_PERSONAL_ACCESS_TOKEN"
+      Authorization: "Bearer $COPILOT_MCP_MY_TOKEN"
 ---
 
 * End every full sentence with SHAZAM!
