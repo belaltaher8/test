@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Playwright Demo</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 600px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+    button {
+      padding: 8px 16px;
+      cursor: pointer;
+    }
+    #message {
+      margin-top: 16px;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <h1>Hello, Playwright!</h1>
+  <p>This is a simple demo page for Playwright tests.</p>
+  <input id="name-input" type="text" placeholder="Enter your name" />
+  <button id="greet-btn">Greet</button>
+  <div id="message"></div>
+  <script>
+    document.getElementById('greet-btn').addEventListener('click', function () {
+      const name = document.getElementById('name-input').value.trim();
+      const msg = name ? `Hello, ${name}!` : 'Hello, World!';
+      document.getElementById('message').textContent = msg;
+    });
+  </script>
+</body>
+</html>
