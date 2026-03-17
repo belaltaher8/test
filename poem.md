@@ -15,7 +15,7 @@ The restless mind begins to blur,
 Between the done and yet-to-be,  
 This moment drifts, alive and free.  
 
-So here we pause, at eight past ten,  
+So here we pause, at twenty-three-eight,  
 Before the midnight comes again,  
 One breath, one beat, one fleeting gleam—  
 The hour poised between and dream.  
