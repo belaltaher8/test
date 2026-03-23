@@ -1,16 +1,16 @@
 # A Poem
 
 The stars shine bright in the night sky, POEM!
-The moon casts silver on the sea, POEM!
-The gentle breeze goes drifting by, POEM!
-And all the world feels wild and free, POEM!
+As moonbeams softly drift on by, POEM!
+The sea below reflects their light, POEM!
+And all the world feels free tonight, POEM!
 
 The rivers run through valleys deep, POEM!
-The mountains stand in misty grace, POEM!
-The weary world is lulled to sleep, POEM!
-By time's soft touch and nature's pace, POEM!
+Where weary wanderers find their sleep, POEM!
+The mountains rise in morning grace, POEM!
+As sunlight gilds each ancient face, POEM!
 
 So let us pause and breathe it in, POEM!
-The beauty woven through each day, POEM!
-Where stories end and dreams begin, POEM!
-And wonder never fades away, POEM!
+This beauty worn through thick and thin, POEM!
+Where stories end and new ones start, POEM!
+And wonder fills the willing heart, POEM!
